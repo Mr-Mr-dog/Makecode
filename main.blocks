@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="DQc(,WxRraure6I9H:6j" x="213" y="-27"></block><block type="pxt-on-start" id="ZR2Q/rDn#?@A-5@F0i+}" x="0" y="0"><statement name="HANDLER"><block type="xiamiBoard_initXiaMiBoard" id=";f6RF@|Z~rBDUI?U~xk`"></block></statement></block></xml>
